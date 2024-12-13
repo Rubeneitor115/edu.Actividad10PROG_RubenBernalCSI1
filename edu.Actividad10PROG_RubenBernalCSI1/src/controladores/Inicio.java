@@ -6,11 +6,6 @@ package controladores;
 
 import java.util.Scanner;
 
-import servicios.MenuImplementacion;
-import servicios.MenuInterfaz;
-import servicios.OperativaImplementacion;
-import servicios.OperativaInterfaz;
-
 /**
  * Clase controladora de la aplicacion
  * @author rbr - 131224
